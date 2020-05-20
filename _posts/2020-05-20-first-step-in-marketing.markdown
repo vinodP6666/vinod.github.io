@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Starting with Digital Marketing"
-date:   2020-05-02 20:32:04 +0700
+date:   2020-05-20 20:32:04 +0700
 categories: [jekyll]
 ---
 
