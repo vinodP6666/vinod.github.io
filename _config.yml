@@ -19,13 +19,13 @@ collections:
     permalink: /:categories/:title:output_ext
 social:
     - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
+      link: "https://www.facebook.com/lohit.jain.31"
+#    - icon: fa-twitter
+#      link: "#"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/lohit-jain-68699289/"
+#    - icon: fa-stack-exchange
+#      link: "#"
     - icon: fa-github
       link: "https://github.com/lohitj"
 
