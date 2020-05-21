@@ -28,7 +28,7 @@ Webinar and Video Meet are new norm in which people should feel comfortable it i
 After COVID-19 retail stores are moving to the E-commerce platforms. Manufacturer's are rolling out the e-commerce platforms which are ensuring speedy delivery. Now, digital marketing scope have increased three folds. More people are using Internet and India has second largest Internet User database. People are spending average 50% time online. This give the leverage to company market their product more online rather than on hoarding or advertisements. So, the market for the Digital Marketing is vast.
 
 ## Funnel Strategy
-![My helpful screenshot](static/img/marketing-funnel.jpg)
+![My helpful screenshot](/static/img/marketing-funnel.jpg)
 
 This consist of the 5 stages which are 
 1. Awareness 
