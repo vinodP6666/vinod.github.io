@@ -2,7 +2,7 @@
 layout: post
 title:  "Starting with Digital Marketing"
 date:   2020-05-20 20:32:04 +0700
-featured-image: marketing-funnel.jpg
+featured-image: AdobeStock_126419253.jpeg
 featured-image-alt: Mike the Blogger speaking at Times Square, New York City, New York
 categories: [marketing]
 ---
