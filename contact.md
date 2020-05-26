@@ -14,8 +14,8 @@ permalink: /contact/
     <label for="exampleFormControlTextarea1">One thing you want to Automate?</label>
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
-  <div class="form-check">
-  <label for="exampleRadios">Are you willing to learn automation?</label> 
+  <label for="exampleRadios">Are you willing to learn automation?</label>
+  <div class="form-check"> 
   <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
   <label class="form-check-label" for="exampleRadios1">
     Yes
@@ -27,8 +27,8 @@ permalink: /contact/
     No
   </label>
 </div>
-  <div class="form-check">
-  <label for="examplRadios">Would you like to pay automation as a Service?</label> 
+<label for="examplRadios">Would you like to pay automation as a Service?</label>
+  <div class="form-check"> 
   <input class="form-check-input" type="radio" name="examplRadios" id="examplRadios1" value="option1" checked>
   <label class="form-check-label" for="examplRadios1">
     Yes
