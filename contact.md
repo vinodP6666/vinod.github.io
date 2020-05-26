@@ -17,7 +17,5 @@ permalink: /contact/
 											<label for="message">Message</label>
 											<textarea name="message" id="message" rows="5"></textarea>
 										</div>
-										<ul class="actions">
-											<li><a href="" class="button submit">Send Message</a></li>
-										</ul>
+										<button type="submit">Send</button>
 									</form>
