@@ -36,6 +36,8 @@ share:
 urls:
     - text: About Me
       url: /about/
+    - text: Get In Touch
+      url: /contact/
     - text: My Projects
       url: /projects/
     - text: XML Feed
