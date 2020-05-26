@@ -4,6 +4,20 @@ title: Contact
 permalink: /contact/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+<form
+  action="https://formspree.io/mzbjerol"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
 
-email: agus[at]python.web.id
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
