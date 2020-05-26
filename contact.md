@@ -17,7 +17,7 @@ permalink: /contact/
   
   <div class="form-group form-check">
   <label for="exampleRadios">Are you willing to learn automation?</label>
-  <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+  <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
   <label class="form-check-label" for="exampleRadios1">
     Yes
   </label>
@@ -28,7 +28,7 @@ permalink: /contact/
 </div>
   <div class="form-group form-check">
   <label for="examplRadios">Would you like to pay automation as a Service?</label>
-  <input class="form-check-input" type="radio" name="examplRadios" id="examplRadios1" value="option1" >
+  <input class="form-check-input" type="radio" name="examplRadios" id="examplRadios1" value="option1">
   <label class="form-check-label" for="examplRadios1">
     Yes
   </label>
