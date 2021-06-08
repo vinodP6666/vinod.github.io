@@ -1,6 +1,21 @@
 ---
 layout: default
 ---
+    <script src="https://great-appy-306153-dev-ed.my.salesforce.com/lightning/lightning.out.js">
+    </script>
+    <script>
+    $Lightning.use("c:uploadFileApp",function(){
+    console.log('Initializing LC');
+    $Lightning.createComponent(
+ "c:uploadFile",
+ {name : "Upload File"},
+ "lightningContainer",
+ function(cmp){
+ console.log('Component created');
+ }
+ );
+ });   
+  </script>
 <article class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
